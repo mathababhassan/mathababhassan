@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a software engineering student at UTM with a p
 
 ## 🌐 Connect with Me
 - Email: [mathababhassan@gmail.com](mailto:mathababhassan@gmail.com)
-- LinkedIn: [linkedin.com/in/mathaba-hassan](https://www.linkedin.com/in/mathaba-hassan)
+- LinkedIn: [linkedin.com/in/mathaba-hassan](https://www.linkedin.com/in/mathabahassan)
 
 ## 🎯 Goals
 I'm passionate about data science and statistics. My goal is to work on projects that improve people's lives, especially through technology that helps solve real-world problems.
