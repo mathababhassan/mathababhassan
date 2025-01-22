@@ -2,7 +2,15 @@
 
 Welcome to my GitHub profile! I'm a software engineering student at UTM with a passion for solving real-world problems through technology.
 
-## 🌱 Current Projects
+## 🌱 Technology and Information System [Projects, Assignments, Labs]
+- **[DesignThinkingMindSync](https://github.com/mathababhassan/SECP1513-Design-Thinking-MindSync)**
+- **[Assignment1EYPoster](https://github.com/mathababhassan/EY-Poster-Group-04)**
+- **[Assignment2UTMDigital](https://github.com/mathababhassan/SECP1513-Industry-Visit-01-UTM-Digital)**
+- **[Assignment3AcademicReport](https://github.com/mathababhassan/SECP1513-Industry-Talk)**
+- **[Assignment4MagicX](https://github.com/mathababhassan/SECP1513-Industry-Visit-02-MagicX)**
+- **[LabPCAssembling](https://github.com/mathababhassan/SECP1513-PC-Assembling-Lab)**
+  
+## Recent Work in Other Subjects:
 - **[MindSync](https://github.com/mathababhassan/MindSync)**: A digital mental health platform designed to help students manage their well-being, for TIS and Software Engineering courses.
 - **[BusBookingSystem](https://github.com/mathababhassan/BusBookingSystem)**: A bus booking system for my database class project.
 - **[MerantiOnlineOrderingSystem](https://github.com/mathababhassan/MerantiOnlineOrderingSystem)**: An online ordering system for Meranti for Programming Techniques II course.
@@ -13,7 +21,7 @@ Welcome to my GitHub profile! I'm a software engineering student at UTM with a p
 
 ## 🌐 Connect with Me
 - Email: [mathababhassan@gmail.com](mailto:mathababhassan@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/mathaba-hassan-541a07221/]
+- LinkedIn: [mathababhassan](https://www.linkedin.com/in/mathaba-hassan-541a07221/)
   
 ## 🎯 Goals
 I'm passionate about data science and statistics. My goal is to work on projects that improve people's lives, especially through technology that helps solve real-world problems.
