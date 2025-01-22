@@ -1,6 +1,9 @@
 # Hi there, I'm Mathaba Hassan 👋
 
 Welcome to my GitHub profile! I'm a software engineering student at UTM with a passion for solving real-world problems through technology.
+# About Me
+## 🎯 Goals
+I'm passionate about data science and statistics. My goal is to work on projects that improve people's lives, especially through technology that helps solve real-world problems.
 
 ## 🌱 Technology and Information System [Projects, Assignments, Labs]
 - **[DesignThinkingMindSync](https://github.com/mathababhassan/SECP1513-Design-Thinking-MindSync)**
@@ -15,6 +18,7 @@ Welcome to my GitHub profile! I'm a software engineering student at UTM with a p
 - **[BusBookingSystem](https://github.com/mathababhassan/BusBookingSystem)**: A bus booking system for my database class project.
 - **[MerantiOnlineOrderingSystem](https://github.com/mathababhassan/MerantiOnlineOrderingSystem)**: An online ordering system for Meranti for Programming Techniques II course.
 - **[N28BNetworkCommunicationLab](https://github.com/mathababhassan/N28BNetworkCommunicationLab)**: A project focusing on network communications, exploring key concepts in networking and building network infrastructure for the new N28B building in FC.
+  
 ## 🚀 Skills & Technologies
 - **Languages**: HTML, CSS, C++, Python, R, PHP, SQL
 - **Tools**: Git, GitHub, VSCode, Visual Studio
@@ -23,9 +27,6 @@ Welcome to my GitHub profile! I'm a software engineering student at UTM with a p
 - Email: [mathababhassan@gmail.com](mailto:mathababhassan@gmail.com)
 - LinkedIn: [mathababhassan](https://www.linkedin.com/in/mathaba-hassan-541a07221/)
   
-## 🎯 Goals
-I'm passionate about data science and statistics. My goal is to work on projects that improve people's lives, especially through technology that helps solve real-world problems.
-
 ## 🎮 Hobbies
 - Exploring data science and statistics
 - Solving real-world problems with technology
