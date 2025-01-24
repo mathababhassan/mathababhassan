@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a software engineering student at UTM with a p
 ## 🎯 Goals
 I'm passionate about data science and statistics. My goal is to work on projects that improve people's lives, especially through technology that helps solve real-world problems.
 
+# Recent Work
 ## 🌱 Technology and Information System [Projects, Assignments, Labs]
 - **[DesignThinkingMindSync](https://github.com/mathababhassan/SECP1513-Design-Thinking-MindSync)**
 - **[Assignment1EYPoster](https://github.com/mathababhassan/EY-Poster-Group-04)**
