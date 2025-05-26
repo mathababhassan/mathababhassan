@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a Software Engineering student at UTM with a p
 
 ## 🎯 Goals
 
-I'm passionate about data science, statistical modeling, and digital wellness. My goal is to build technology that not only works — but *matters*.I want to integrate my love for mathematics with creative, real-world software projects
+I'm passionate about data science, statistical modeling, and digital wellness. My goal is to build technology that not only works — but *matters*.
 
 ---
 
